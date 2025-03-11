@@ -1,0 +1,14 @@
+{
+  "name": "mon-bridge-dex",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "ethers": "5.7.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
